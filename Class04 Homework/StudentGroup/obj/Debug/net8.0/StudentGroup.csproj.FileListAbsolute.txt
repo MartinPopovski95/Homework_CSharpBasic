@@ -1,0 +1,14 @@
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\bin\Debug\net8.0\StudentGroup.exe
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\bin\Debug\net8.0\StudentGroup.deps.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\bin\Debug\net8.0\StudentGroup.runtimeconfig.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\bin\Debug\net8.0\StudentGroup.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\bin\Debug\net8.0\StudentGroup.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfo.cs
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\StudentGroup.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\StudentGroup.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\refint\StudentGroup.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\StudentGroup.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\StudentGroup.genruntimeconfig.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 04\Class04 Homework\Homework_Class04\StudentGroup\obj\Debug\net8.0\ref\StudentGroup.dll

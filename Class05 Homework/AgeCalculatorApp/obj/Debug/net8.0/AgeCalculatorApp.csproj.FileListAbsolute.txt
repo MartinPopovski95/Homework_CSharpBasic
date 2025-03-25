@@ -1,0 +1,14 @@
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.exe
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.deps.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.runtimeconfig.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.AssemblyInfo.cs
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\refint\AgeCalculatorApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.genruntimeconfig.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 05\Class05 Homework\Homework_Class05\AgeCalculatorApp\obj\Debug\net8.0\ref\AgeCalculatorApp.dll

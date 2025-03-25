@@ -1,0 +1,14 @@
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\bin\Debug\net8.0\CarRaceSimulator.exe
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\bin\Debug\net8.0\CarRaceSimulator.deps.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\bin\Debug\net8.0\CarRaceSimulator.runtimeconfig.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\bin\Debug\net8.0\CarRaceSimulator.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\bin\Debug\net8.0\CarRaceSimulator.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\CarRaceSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\CarRaceSimulator.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\CarRaceSimulator.AssemblyInfo.cs
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\CarRaceSimulator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\CarRaceSimulator.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\refint\CarRaceSimulator.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\CarRaceSimulator.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\CarRaceSimulator.genruntimeconfig.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Class06_Homework\CarRaceSimulator\obj\Debug\net8.0\ref\CarRaceSimulator.dll

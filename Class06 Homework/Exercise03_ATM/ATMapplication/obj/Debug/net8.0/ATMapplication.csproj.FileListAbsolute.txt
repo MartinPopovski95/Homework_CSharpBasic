@@ -1,0 +1,14 @@
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\bin\Debug\net8.0\ATMapplication.exe
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\bin\Debug\net8.0\ATMapplication.deps.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\bin\Debug\net8.0\ATMapplication.runtimeconfig.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\bin\Debug\net8.0\ATMapplication.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\bin\Debug\net8.0\ATMapplication.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\ATMapplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\ATMapplication.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\ATMapplication.AssemblyInfo.cs
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\ATMapplication.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\ATMapplication.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\refint\ATMapplication.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\ATMapplication.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\ATMapplication.genruntimeconfig.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 06\Class06 Homework\Exercise03_ATM\ATMapplication\obj\Debug\net8.0\ref\ATMapplication.dll

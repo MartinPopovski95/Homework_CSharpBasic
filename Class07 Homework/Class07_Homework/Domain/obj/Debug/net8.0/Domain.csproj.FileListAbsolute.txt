@@ -1,0 +1,22 @@
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\Domain\obj\Debug\net8.0\ref\Domain.dll

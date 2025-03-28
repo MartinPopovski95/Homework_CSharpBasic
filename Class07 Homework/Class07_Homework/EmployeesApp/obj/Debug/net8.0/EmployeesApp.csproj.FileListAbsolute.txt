@@ -1,0 +1,36 @@
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.AssemblyInfo.cs
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.csproj.AssemblyReference.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.exe
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.deps.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.runtimeconfig.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\Employee.6AFA3BC7.Up2Date
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\refint\EmployeesApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.genruntimeconfig.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\ref\EmployeesApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.exe
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.deps.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.runtimeconfig.json
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\EmployeesApp.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.csproj.AssemblyReference.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.AssemblyInfo.cs
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\Employee.6AFA3BC7.Up2Date
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\refint\EmployeesApp.dll
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.pdb
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\EmployeesApp.genruntimeconfig.cache
+D:\Visual Studio Code Projects\Qinshift\C# Basic\CLASS 07\Class07 Homework\Class07 Homework\Class07_Homework\EmployeesApp\obj\Debug\net8.0\ref\EmployeesApp.dll
